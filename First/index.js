@@ -8,3 +8,6 @@ function sum(a,b){
 }
 
 c=sum(a,b);
+function divide(a,b){
+    return a/b;
+}
